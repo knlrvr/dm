@@ -8,7 +8,7 @@ export default function Hero() {
                 <hr />
                 <p className="p-4 dark:text-gray-200">
                     Resources for being the <strong>best</strong> DM. Or not. You could also be the <strong>worst</strong>.
-                    It's really up to you. 
+                    It&apos;s really up to you. 
                     <br />
                     <em>Enjoy!</em>
                 </p>

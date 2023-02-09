@@ -30,7 +30,7 @@ export default function Resources() {
                     </div>
                 </div>
                 <div className="text-center p-4">
-                    <p className="text-xl text-center mb-2 text-gray-400">PC's</p>
+                    <p className="text-xl text-center mb-2 text-gray-400">PC&apos;s</p>
                     <div className="flex flex-col space-y-2 dark:text-gray-200">
                         <Link className="hover:text-gray-400"
                             href="https://www.fantasynamegenerators.com/dungeons-and-dragons.php/">
@@ -71,7 +71,7 @@ export default function Resources() {
                     </div>
                 </div>
                 <div className="text-center p-4">
-                    <p className="text-xl text-center mb-2 text-gray-400">NPC's</p>
+                    <p className="text-xl text-center mb-2 text-gray-400">NPC&apos;s</p>
                     <div className="flex flex-col space-y-2 dark:text-gray-200">
                         <Link className="hover:text-gray-400"
                             href="https://www.fantasynamegenerators.com/dungeons-and-dragons.php/">
